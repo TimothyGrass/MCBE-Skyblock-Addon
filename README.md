@@ -117,6 +117,8 @@ Produce Dead Bush
 #### Creeper dropping all CD track
 ![螢幕擷取畫面 (439)](https://user-images.githubusercontent.com/77906640/147732066-183d1bef-8f85-4966-a46a-c2e4d7703003.png)
 
+---
+
 ### Modified trading items
 
 #### Trade from Wandering Trader
