@@ -19,27 +19,27 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 ---
 
 #### 原礦方塊獲取
-Ore can be obtained by crafting:
+原礦方塊可以透過合成獲得:
 
 ![螢幕擷取畫面 (407)](https://user-images.githubusercontent.com/77906640/147718159-d5ed11cb-e646-4b21-8c86-073d2a736a26.png)
 
-Craftable Ore:
+可合成原礦:
 | Overworld Stone Ore   | Overworld Deepslate Ore       | Netherrack & Blackstone Ore |
 | --------------------- | ----------------------------- | --------------------------- |
-| Iron Ore              | Deepslate Iron Ore            | Nether Gold Ore             |
-| Gold Ore              | Deepslate Gold Ore            | Nether Quartz Ore           |
-| Diamond Ore           | Deepslate Diamond Ore         | Gilded Blackstone           |
-| Lapis Lazuli Ore      | Deepslate Lapis Lazuli Ore    |
-| Redstone Ore          | Deepslate Redstone Ore        |
-| Coal Ore              | Deepslate Coal Ore            |
-| Copper Ore            | Deepslate Copper Ore          |
-| Emerald Ore           | Deepslate Emerald Ore         |
+| 鉄礦                   | 深層鐵礦                      | 地獄金礦                     |
+| 金礦                   | 深層金礦                      | 地獄石英礦                   |
+| 鑽石礦                 | 深層鑽石礦                     | 鑲金黑石                    |
+| 青金石礦               | 深層青金石礦                   |
+| 紅石礦                 | 深層紅石礦                     |
+| 煤礦                   | 深層煤礦                       |
+| 銅礦                   | 深層銅礦                       |
+| 綠寶石礦               | 深層綠寶石礦                    |
 
 ---
 
 #### Craftable Raw Mineral:
 
-| Product       | Ingredient 1          | Ingredient 2          |
+| 成品          | 材料 1                 | 材料 2                |
 | :-----------: | :-------------------: | :-------------------: |
 | <img src="https://user-images.githubusercontent.com/77906640/147720018-a8763235-8dfc-4fe8-ba84-66dcf24da307.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147720749-5bec6056-ba11-4fcf-a003-474ec6ad9e54.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147720878-31de832b-54c7-486a-967b-4adeff07720c.png" width="50%;">  |
 | <img src="https://user-images.githubusercontent.com/77906640/147720992-bf2f9a11-7b00-47cc-b3ba-e044ad33aef3.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721051-ae5c9203-485e-4b65-bf6b-053f9e8782ee.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721063-5b6d2d9f-2c6d-4973-abe1-b2804308b870.png" width="50%;">  |
@@ -47,8 +47,8 @@ Craftable Ore:
 
 ---
 
-#### Specific Crops craftable
-##### Nether Crops obtaining
+#### 特殊可合成作物
+##### 地獄作物
 1. Weeping Vines<br>
 Vines + Crimson Fungus + Crimson Nylium
 
