@@ -137,3 +137,11 @@ Produce Dead Bush
 ##### Piglin Bartering
 - 0.2% giving an Ancinet Debris
 ![螢幕擷取畫面 (441)](https://user-images.githubusercontent.com/77906640/147734567-c6eac6fd-c20c-4b57-86b1-b76a9bbe8b53.png)
+
+## Credits
+- CrazyBreeze1074
+- Rayth Co
+- [jsorrell](https://github.com/jsorrell)
+- [ddf8196](https://github.com/ddf8196)
+- Daisy AC17
+- TNT Sky
