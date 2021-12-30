@@ -144,8 +144,19 @@ Produce Dead Bush
 - 0.2% giving an Ancinet Debris
 ![螢幕擷取畫面 (441)](https://user-images.githubusercontent.com/77906640/147734567-c6eac6fd-c20c-4b57-86b1-b76a9bbe8b53.png)
 
+## Renewable Shulker spawning mechanism (future feature in v1.0.1)
+- Special thanks to [Golden Helmet](https://www.youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw) who modified everything for shulker spawning
+- Shulkers have 75% chances spawning when
+- It is hit by a shulker bullet
+- Its shell is open
+- It has < 50% health remaining
+- There are < 6 shulkers within 8 blocks
+- It successfully teleports away
+- The new shulker spawns where the old one was before it teleported
+
 ## Credits
 - CrazyBreeze1074
+- [Golden Helmet](https://www.youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw)
 - [Rayth Co](https://github.com/RaythCo-Creations)
 - [jsorrell](https://github.com/jsorrell)
 - [ddf8196](https://github.com/ddf8196)
