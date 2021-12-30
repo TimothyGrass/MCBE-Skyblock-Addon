@@ -132,6 +132,7 @@ Produce Dead Bush
 ---
 
 ##### Toolsmith tradings
+- Trade with toolsmith with 32 emerald for a diamond
 ![螢幕擷取畫面 (440)](https://user-images.githubusercontent.com/77906640/147733897-255ab565-3698-4dc9-acb4-836d216367d2.png)
 
 ---
