@@ -3,8 +3,8 @@
 
 MCBE Skyblock Addon is a behavior pack that provides better experience specific for better gaming experience which aims at:
 - Everything being renewable
-- Everything obtainable
-- Original game mechanism not replaced
+- Everything being obtainable
+- Not replacing any original game mechanics
 - Enhancing understanding of game mechanics
 
 ## Installation
@@ -40,3 +40,18 @@ Craftable Ore:
 
 ### Specific Crops craftable
 #### Nether Crops obtaining
+1. Weeping Vines<br>
+Vines + Crimson Fungus + Crimson Nylium
+
+2. Twisting Vines<br>
+Vines + Warped Fungus + Warped Nylium
+
+3. Nether Wart<br>
+Red Mushroom + Fermented Spider Eye + Soul Sand
+
+#### Overworld Crops obtaining
+1. Glow Lichen<br>
+Vines + Glow Ink Sac
+
+2. Glow Berries<br>
+Sweet Berries + Glow Lichen
