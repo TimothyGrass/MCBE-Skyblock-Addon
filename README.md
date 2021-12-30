@@ -125,7 +125,7 @@ Produce Dead Bush
 ### Modified trading items
 
 #### Trade from Wandering Trader
-##### Bucket items
+
 - Costing 5 emerald and a bucket for any bucket item
 - Including Lava Bucket in bucket trades
 - Including Spore Blossom in flower trades
@@ -134,17 +134,17 @@ Produce Dead Bush
 
 ---
 
-##### Toolsmith tradings
+#### Toolsmith tradings
 - Trade with toolsmith with 32 emerald for a diamond
 ![螢幕擷取畫面 (440)](https://user-images.githubusercontent.com/77906640/147733897-255ab565-3698-4dc9-acb4-836d216367d2.png)
 
 ---
 
-##### Piglin Bartering
+#### Piglin Bartering
 - 0.2% giving an Ancinet Debris
 ![螢幕擷取畫面 (441)](https://user-images.githubusercontent.com/77906640/147734567-c6eac6fd-c20c-4b57-86b1-b76a9bbe8b53.png)
 
-## Renewable Shulker spawning mechanism (future feature in v1.0.1)
+### Renewable Shulker spawning mechanism (future feature in v1.0.1)
 - Special thanks to [Golden Helmet](https://www.youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw) who modified everything for shulker spawning
 - Shulkers have 75% chances spawning when
 - It is hit by a shulker bullet
@@ -160,6 +160,7 @@ Produce Dead Bush
 - [Rayth Co](https://github.com/RaythCo-Creations)
 - [jsorrell](https://github.com/jsorrell)
 - [ddf8196](https://github.com/ddf8196)
+- [Frozen](https://space.bilibili.com/7543512)
 - [Daisy AC17](https://space.bilibili.com/433369355)
 - Rock C.
 - [TNT Sky](https://github.com/TNTsky)
