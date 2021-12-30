@@ -160,7 +160,7 @@ Produce Dead Bush
 - [Rayth Co](https://github.com/RaythCo-Creations)
 - [jsorrell](https://github.com/jsorrell)
 - [ddf8196](https://github.com/ddf8196)
-- Daisy AC17
+- [Daisy AC17](https://space.bilibili.com/433369355)
 - Rock C.
-- TNT Sky
+- [TNT Sky](https://github.com/TNTsky)
 - [bridge.](https://github.com/bridge-core/bridge.)
