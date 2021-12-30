@@ -99,11 +99,13 @@ All coloured Coral Blocks are now craftable by combining four coloured coral in 
 
 ---
 
-### Campfire & Soul Campfire obtaining
+### Item obtaining from Campfire and Soul Campfire
 
 #### Drying Tree Sapling
 Produce Dead Bush
 ![螢幕擷取畫面 (437)](https://user-images.githubusercontent.com/77906640/147730523-7359be67-9478-4e9e-bcb7-5bb76d83639e.png)
+
+---
 
 ### Modified mob drops
 
