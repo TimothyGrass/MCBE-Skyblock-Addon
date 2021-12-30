@@ -113,7 +113,7 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 ### 調整生物掉落物
 
 #### 海豚有1%幾率掉落海洋之心
-![Uploading 螢幕擷取畫面 (451).png…]()
+![螢幕擷取畫面 (451)](https://user-images.githubusercontent.com/77906640/147756031-b6ce7b9d-aacb-438b-b2fe-7116a7543f2d.png)
 
 ---
 
