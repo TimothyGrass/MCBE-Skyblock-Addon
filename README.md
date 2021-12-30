@@ -125,7 +125,7 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 ### 調整交易物品選項
 
 #### 與流浪商人的交易
-##### 桶類交易選項
+
 - 購買桶類物品需要一個鐵桶與五個綠寶石
 - 增加岩漿桶作爲桶類交易選項
 - 將孢子花加入花的交易選項
@@ -134,24 +134,34 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 
 ---
 
-##### 與工具商人的交易
+#### 與工具商人的交易
 - 以32個綠寶石交易獲得一個鑽石
 ![螢幕擷取畫面 (440)](https://user-images.githubusercontent.com/77906640/147733897-255ab565-3698-4dc9-acb4-836d216367d2.png)
 
 ---
 
-##### 豬靈交易
+#### 豬靈交易
 - 0.2% 幾率得到一個遠古遺骸
 ![螢幕擷取畫面 (441)](https://user-images.githubusercontent.com/77906640/147734567-c6eac6fd-c20c-4b57-86b1-b76a9bbe8b53.png)
 
+### 可再生潛影貝生成機制 （將於 v1.0.1加入）
+- 特別鳴謝由 Golden Helmet 獨自完成的生成機制開發
+- 潛影貝有 75% 機率生成，當：
+- 被潛影貝導彈擊中
+- 貝殼是打開狀態
+- 剩餘 < 50% 血量
+- 8 格内有 < 6 潛影貝
+- 成功傳送離開原本所處的坐標
+- 新潛影貝於舊的潛影貝位置生成
+
 ## 鳴謝
 - CrazyBreeze1074
-- Golden Helmet
-- Rayth Co
+- [Golden Helmet](https://www.youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw)
+- [Rayth Co](https://github.com/RaythCo-Creations)
 - [jsorrell](https://github.com/jsorrell)
 - [ddf8196](https://github.com/ddf8196)
-- Frozen
-- Daisy AC17
+- [Frozen](https://space.bilibili.com/7543512)
+- [Daisy AC17](https://space.bilibili.com/433369355)
 - Rock C.
-- TNT Sky
+- [TNT Sky](https://github.com/TNTsky)
 - [bridge.](https://github.com/bridge-core/bridge.)
