@@ -125,8 +125,12 @@ Produce Dead Bush
 - Including Amethyst Shard sharing Nautilus Shell row
 - Including Mycelium, Warped Nylium and Crimson Nylium sharing Podzol row
 
+---
+
 ##### Toolsmith tradings
 ![螢幕擷取畫面 (440)](https://user-images.githubusercontent.com/77906640/147733897-255ab565-3698-4dc9-acb4-836d216367d2.png)
+
+---
 
 ##### Piglin Bartering
 - 0.2% giving an Ancinet Debris
