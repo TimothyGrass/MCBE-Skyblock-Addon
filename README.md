@@ -14,7 +14,7 @@ MCBE Skyblock Addon is a behavior pack that provides better experience specific 
 
 ## Feature
 
-### Item crafting with costom crafting recepie
+### Item crafting with custom crafting recepie
 
 ---
 
