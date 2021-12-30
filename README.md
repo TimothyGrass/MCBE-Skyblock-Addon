@@ -1,5 +1,5 @@
 # MCBE-Skyblock-Addon
-![螢幕擷取畫面 (390)](https://user-images.githubusercontent.com/77906640/147713933-8ea25541-e43a-455a-8dd8-de954b93fe00.png)
+![螢幕擷取畫面 (449)](https://user-images.githubusercontent.com/77906640/147754817-98286912-ea9c-422e-85de-7eec0f8905c3.png)
 
 語言：
 中文 [英文](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/main/README.md)
@@ -113,12 +113,12 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 ### 調整生物掉落物
 
 #### 海豚有1%幾率掉落海洋之心
-![螢幕擷取畫面 (438)](https://user-images.githubusercontent.com/77906640/147731524-b4cfbf80-e57e-4b94-a327-83ecad62c721.png)
+![Uploading 螢幕擷取畫面 (451).png…]()
 
 ---
 
 #### 苦力怕被流浪者或小白擊殺會掉落所有種類的唱片之一
-![螢幕擷取畫面 (439)](https://user-images.githubusercontent.com/77906640/147732066-183d1bef-8f85-4966-a46a-c2e4d7703003.png)
+![螢幕擷取畫面 (452)](https://user-images.githubusercontent.com/77906640/147755964-5b91c324-8edf-4a27-84ba-ea1546d6be25.png)
 
 ---
 
@@ -146,6 +146,7 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 
 ## 鳴謝
 - CrazyBreeze1074
+- Golden Helmet
 - Rayth Co
 - [jsorrell](https://github.com/jsorrell)
 - [ddf8196](https://github.com/ddf8196)
