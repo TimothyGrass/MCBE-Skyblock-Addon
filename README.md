@@ -1,24 +1,24 @@
 # MCBE-Skyblock-Addon
 ![螢幕擷取畫面 (390)](https://user-images.githubusercontent.com/77906640/147713933-8ea25541-e43a-455a-8dd8-de954b93fe00.png)
 
-MCBE Skyblock Addon is a behavior pack that provides better experience specific for better gaming experience which aims at:
-- Everything being renewable
-- Everything being obtainable
-- Not replacing any original game mechanics
-- Enhancing understanding of game mechanics
+MCBE Skyblock Addon 是一個爲了下列目標而開發的:
+- 所有資源可再生
+- 所有資源可獲得
+- 不替代原版的游戲機制
+- 加深對於原版游戲機制的了解
 
-## Installation
-1. Download .mcpack from [Release](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/releases)
-2. Double click the .mcpack file and start with Minecraft:Bedrock Edition
-3. Enable pack from the world option
+## 安裝
+1. 於[Release](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/releases)下載.mcpack檔案
+2. 雙擊.mcpack 檔案並使用 Minecraft:Bedrock Edition 打開
+3. 於世界設定啓用行爲包
 
-## Feature
+## 特性
 
-### Item crafting with costom crafting recepie
+### 部分物品的客制化合成
 
 ---
 
-#### Ore obtaining
+#### 原礦方塊獲取
 Ore can be obtained by crafting:
 
 ![螢幕擷取畫面 (407)](https://user-images.githubusercontent.com/77906640/147718159-d5ed11cb-e646-4b21-8c86-073d2a736a26.png)
