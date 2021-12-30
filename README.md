@@ -143,7 +143,7 @@ Produce Dead Bush
 
 ## Credits
 - CrazyBreeze1074
-- Rayth Co
+- [Rayth Co](https://github.com/RaythCo-Creations)
 - [jsorrell](https://github.com/jsorrell)
 - [ddf8196](https://github.com/ddf8196)
 - Daisy AC17
