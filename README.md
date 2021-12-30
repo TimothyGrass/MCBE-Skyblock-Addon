@@ -55,3 +55,17 @@ Vines + Glow Ink Sac
 
 2. Glow Berries<br>
 Sweet Berries + Glow Lichen
+
+### All Horse Armour craftable
+
+![image](https://user-images.githubusercontent.com/77906640/147724810-df76334e-bb3a-4b4a-a668-4e9a17869ce2.png)
+
+### Coral Block craftable
+All COLOURED Coral Blocks are now craftable by combining four COLOURED coral in a 2 X 2 shape, including:
+1. Fire Coral Block
+2. Brain Coral
+3. Bubble Coral
+4. Tube Coral
+5. Horn Coral
+
+### Other Block crafting
