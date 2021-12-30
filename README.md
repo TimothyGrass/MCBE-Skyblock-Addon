@@ -1,6 +1,9 @@
 # MCBE-Skyblock-Addon
 ![螢幕擷取畫面 (390)](https://user-images.githubusercontent.com/77906640/147713933-8ea25541-e43a-455a-8dd8-de954b93fe00.png)
 
+語言：
+中文 [英文](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/main/README.md)
+
 MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 - 所有資源可再生
 - 所有資源可獲得
