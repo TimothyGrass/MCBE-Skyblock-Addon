@@ -24,7 +24,7 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 ![螢幕擷取畫面 (407)](https://user-images.githubusercontent.com/77906640/147718159-d5ed11cb-e646-4b21-8c86-073d2a736a26.png)
 
 可合成原礦:
-| Overworld Stone Ore   | Overworld Deepslate Ore       | Netherrack & Blackstone Ore |
+| 主世界石頭類礦石       | 主世界深岩板類礦石              | 地獄岩與黑石類礦物            |
 | --------------------- | ----------------------------- | --------------------------- |
 | 鉄礦                   | 深層鐵礦                      | 地獄金礦                     |
 | 金礦                   | 深層金礦                      | 地獄石英礦                   |
@@ -37,7 +37,7 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 
 ---
 
-#### Craftable Raw Mineral:
+#### 可合成未熔煉金屬礦物:
 
 | 成品          | 材料 1                 | 材料 2                |
 | :-----------: | :-------------------: | :-------------------: |
@@ -47,105 +47,106 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 
 ---
 
-#### 特殊可合成作物
-##### 地獄作物
-1. Weeping Vines<br>
-Vines + Crimson Fungus + Crimson Nylium
+#### 可合成的作物
+##### 地獄作物獲取
+1. 緋紅藤<br>
+藤曼 + 緋紅蕈菇 + 緋紅菌絲岩
 
-2. Twisting Vines<br>
-Vines + Warped Fungus + Warped Nylium
+2. 扭曲藤<br>
+藤曼 + 詭異蕈菇 + 詭異菌絲岩
 
-3. Nether Wart<br>
-Red Mushroom + Fermented Spider Eye + Soul Sand
+3. 地獄疙瘩（地獄疣）<br>
+紅蘑菇 + 發酵蜘蛛眼 + 魂沙
 
-##### Overworld Crops obtaining
-1. Glow Lichen<br>
-Vines + Glow Ink Sac
+##### 主世界作物獲取
+1. 發光地衣<br>
+藤曼 + 發光墨囊
 
-2. Glow Berries<br>
-Sweet Berries + Glow Lichen
+2. 發光莓果<br>
+莓果 + 發光地衣
 
 ---
 
-#### All Horse Armour craftable
+#### 可合成所有馬鎧
 
 ![image](https://user-images.githubusercontent.com/77906640/147724810-df76334e-bb3a-4b4a-a668-4e9a17869ce2.png)
 
 ---
 
-#### Coral Block craftable
-All coloured Coral Blocks are now craftable by combining four coloured coral in a 2 X 2 shape, including:
-1. Fire Coral Block
-2. Brain Coral
-3. Bubble Coral
-4. Tube Coral
-5. Horn Coral
+#### 可合成珊瑚方塊
+可以用四個同樣未白化的珊瑚合成珊瑚方塊，包括:
+1. 火珊瑚
+2. 腦珊瑚
+3. 角珊瑚
+4. 管珊瑚
+5. 氣泡珊瑚
 
 ---
 
-#### Other Block crafting
+#### 可合成的其他方塊
 ![image](https://user-images.githubusercontent.com/77906640/147727088-4ab7b367-2c93-466f-809b-dceea4c794cc.png)
 
 ![螢幕擷取畫面 (434)](https://user-images.githubusercontent.com/77906640/147728080-4d6e0ca2-a3cd-4706-b377-4eacacaf70c2.png)
 
 ---
 
-### Furnance obtaining
+### 可用熔爐熔煉獲取的物品
 
-#### Tuff obtaining
-1. Smelting Andesite with furnance provides Tuff
-#### Calcite obtaining
-2. Smelting Diorite with furnance provides Calcite
+#### 凝灰岩獲取
+1. 熔煉安山岩以獲得凝灰岩
+#### 方解石獲取
+2. 熔煉閃長岩以獲得方解石
 
 ---
 
-### Item obtaining from Campfire and Soul Campfire
+### 可用營火與靈魂螢火獲取的物品
 
-#### Drying Tree Sapling
-Produce Dead Bush
+#### 烘乾各種樹苗
+生產枯木
 ![螢幕擷取畫面 (437)](https://user-images.githubusercontent.com/77906640/147730523-7359be67-9478-4e9e-bcb7-5bb76d83639e.png)
 
 ---
 
-### Modified mob drops
+### 調整生物掉落物
 
-#### Dolphin drops Heart of the Sea in a 1% rate
+#### 海豚有1%幾率掉落海洋之心
 ![螢幕擷取畫面 (438)](https://user-images.githubusercontent.com/77906640/147731524-b4cfbf80-e57e-4b94-a327-83ecad62c721.png)
 
 ---
 
-#### Creeper dropping all CD track
+#### 苦力怕被流浪者或小白擊殺會掉落所有種類的唱片之一
 ![螢幕擷取畫面 (439)](https://user-images.githubusercontent.com/77906640/147732066-183d1bef-8f85-4966-a46a-c2e4d7703003.png)
 
 ---
 
-### Modified trading items
+### 調整交易物品選項
 
-#### Trade from Wandering Trader
-##### Bucket items
-- Costing 5 emerald and a bucket for any bucket item
-- Including Lava Bucket in bucket trades
-- Including Spore Blossom in flower trades
-- Including Amethyst Shard sharing Nautilus Shell row
-- Including Mycelium, Warped Nylium and Crimson Nylium sharing Podzol row
+#### 與流浪商人的交易
+##### 桶類交易選項
+- 購買桶類物品需要一個鐵桶與五個綠寶石
+- 增加岩漿桶作爲桶類交易選項
+- 將孢子花加入花的交易選項
+- 紫水晶將共享鸚鵡螺殼的交易選項出現幾率
+- 詭異菌絲岩、緋紅菌絲岩與菌絲土將共享灰化土交易選項出現幾率
 
 ---
 
-##### Toolsmith tradings
-- Trade with toolsmith with 32 emerald for a diamond
+##### 與工具商人的交易
+- 以32個綠寶石交易獲得一個鑽石
 ![螢幕擷取畫面 (440)](https://user-images.githubusercontent.com/77906640/147733897-255ab565-3698-4dc9-acb4-836d216367d2.png)
 
 ---
 
-##### Piglin Bartering
-- 0.2% giving an Ancinet Debris
+##### 豬靈交易
+- 0.2% 幾率得到一個遠古遺骸
 ![螢幕擷取畫面 (441)](https://user-images.githubusercontent.com/77906640/147734567-c6eac6fd-c20c-4b57-86b1-b76a9bbe8b53.png)
 
-## Credits
+## 鳴謝
 - CrazyBreeze1074
 - Rayth Co
 - [jsorrell](https://github.com/jsorrell)
 - [ddf8196](https://github.com/ddf8196)
+- Frozen
 - Daisy AC17
 - Rock C.
 - TNT Sky
