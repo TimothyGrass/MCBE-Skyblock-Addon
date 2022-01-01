@@ -166,6 +166,6 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 - [ddf8196](https://github.com/ddf8196)
 - [Frozen](https://space.bilibili.com/7543512)
 - [Daisy AC17](https://space.bilibili.com/433369355)
-- Rock C.
+- [Rock C.](https://github.com/rockclw)
 - [TNT Sky](https://github.com/TNTsky)
 - [bridge.](https://github.com/bridge-core/bridge.)
