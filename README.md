@@ -15,6 +15,10 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 2. 雙擊.mcpack 檔案並使用 Minecraft:Bedrock Edition 打開
 3. 於世界設定啓用行爲包
 
+## 空島地圖下載
+空島地圖由 CrazyBreeze1074 獨自完成開發
+點擊[這裏](https://github.com/Breeze1074/VoidWorld_v0)到達網站並下載.mcworld
+
 ## 特性
 
 ### 部分物品的客制化合成
@@ -155,7 +159,7 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 - 新潛影貝於舊的潛影貝位置生成
 
 ## 鳴謝
-- CrazyBreeze1074
+- [CrazyBreeze1074](https://github.com/Breeze1074)
 - [Golden Helmet](https://www.youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw)
 - [Rayth Co](https://github.com/RaythCo-Creations)
 - [jsorrell](https://github.com/jsorrell)
