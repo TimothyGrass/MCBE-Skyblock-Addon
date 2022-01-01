@@ -17,7 +17,7 @@ MCBE Skyblock Addon is a behavior pack that provides better experience specific 
 
 ## World Download
 The skyblock map is developed by CrazyBreeze
-Click [here](https://github.com/Breeze1074/VoidWorld_v0) to download the .mcworld
+Click [here](https://github.com/Breeze1074/VoidWorld_v0/blob/main/VoidWorld_CrazyBreeze.mcworld) to download the .mcworld
 
 ## Feature
 
