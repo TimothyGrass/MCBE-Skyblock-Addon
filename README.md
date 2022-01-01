@@ -15,6 +15,10 @@ MCBE Skyblock Addon is a behavior pack that provides better experience specific 
 2. Double click the .mcpack file and start with Minecraft:Bedrock Edition
 3. Enable pack from the world option
 
+## World Download
+The skyblock map is developed by CrazyBreeze
+Click [here](https://github.com/Breeze1074/VoidWorld_v0) to download the .mcworld
+
 ## Feature
 
 ### Item crafting with custom crafting recepie
@@ -155,7 +159,7 @@ Produce Dead Bush
 - The new shulker spawns where the old one was before it teleported
 
 ## Credits
-- CrazyBreeze1074
+- [CrazyBreeze1074](https://github.com/Breeze1074)
 - [Golden Helmet](https://www.youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw)
 - [Rayth Co](https://github.com/RaythCo-Creations)
 - [jsorrell](https://github.com/jsorrell)
