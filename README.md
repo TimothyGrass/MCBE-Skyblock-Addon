@@ -1,6 +1,6 @@
 # MCBE-Skyblock-Addon
 
-![cover](src/cover.png)
+![螢幕擷取畫面 (390)](https://user-images.githubusercontent.com/77906640/147713933-8ea25541-e43a-455a-8dd8-de954b93fe00.png)
 
 语言：
 中文 [英文](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/main/README.md)
@@ -32,7 +32,7 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 
 原矿方块可以透过合成获得:
 
-![recipes_ore](src/recipes_ore.png)
+![螢幕擷取畫面 (407)](https://user-images.githubusercontent.com/77906640/147718159-d5ed11cb-e646-4b21-8c86-073d2a736a26.png)
 
 可合成原矿:
 | 主世界石头类矿石 | 主世界深岩板类矿石 | 地狱岩与黑石类矿物|
@@ -52,9 +52,9 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 
 | 成品          | 材料 1                 | 材料 2                |
 | :-----------: | :--------------------: | :-------------------: |
-| <img src="src/raw_iron_ore.png" width="50%;"> | <img src="src/iron_ingot.png" width="50%;"> | <img src="src/quartz.png" width="50%;"> |
-| <img src="src/raw_gold_ore.png" width="50%;"> | <img src="src/gold_ingot.png" width="50%;"> | <img src="src/quartz.png" width="50%;"> |
-| <img src="src/raw_copper_ore.png" width="50%;"> | <img src="src/copper_ingot.png" width="50%;"> | <img src="src/quartz.png" width="50%;"> |
+| <img src="https://user-images.githubusercontent.com/77906640/147720018-a8763235-8dfc-4fe8-ba84-66dcf24da307.png" width="50%;">  | <img src="https://user-images.githubusercontent.com/77906640/147720749-5bec6056-ba11-4fcf-a003-474ec6ad9e54.png" width="50%;">  | <img src="https://user-images.githubusercontent.com/77906640/147720878-31de832b-54c7-486a-967b-4adeff07720c.png" width="50%;"> |
+| <img src="https://user-images.githubusercontent.com/77906640/147720992-bf2f9a11-7b00-47cc-b3ba-e044ad33aef3.png" width="50%;">  | <img src="https://user-images.githubusercontent.com/77906640/147721051-ae5c9203-485e-4b65-bf6b-053f9e8782ee.png" width="50%;">   | <img src="https://user-images.githubusercontent.com/77906640/147721063-5b6d2d9f-2c6d-4973-abe1-b2804308b870.png" width="50%;"> |
+| <img src="https://user-images.githubusercontent.com/77906640/147746365-eeab2c7e-a77f-4991-bb40-0baab9b06fd1.png" width="50%;">  | <img src="https://user-images.githubusercontent.com/77906640/147721103-1c676058-63dc-4023-b631-edd8b943e9eb.png" width="50%;">  | <img src="https://user-images.githubusercontent.com/77906640/147721114-a3a36fc4-02c4-44ca-be7f-c48a2d646472.png" width="50%;"> |
 
 ---
 
@@ -83,7 +83,7 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 
 #### 可合成所有马铠
 
-![recipes_horse-armor](src/recipes_horse-armor.png)
+![image](https://user-images.githubusercontent.com/77906640/147724810-df76334e-bb3a-4b4a-a668-4e9a17869ce2.png)
 
 ---
 
@@ -101,9 +101,9 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 
 #### 可合成的其他方块
 
-![recipes_other-blocks-1](src/recipes_other-blocks-1.png)
+![image](https://user-images.githubusercontent.com/77906640/147727088-4ab7b367-2c93-466f-809b-dceea4c794cc.png)
 
-![recipes_other-blocks-2](src/recipes_other-blocks-2.png)
+![螢幕擷取畫面 (434)](https://user-images.githubusercontent.com/77906640/147728080-4d6e0ca2-a3cd-4706-b377-4eacacaf70c2.png)
 
 ---
 
@@ -124,7 +124,7 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 #### 烘乾各种树苗
 
 生产枯木
-![萤幕撷取画面 (437)](src/recipes_death-bush.png)
+![螢幕擷取畫面 (437)](https://user-images.githubusercontent.com/77906640/147730523-7359be67-9478-4e9e-bcb7-5bb76d83639e.png)
 
 ---
 
@@ -132,13 +132,13 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 
 #### 海豚有1%几率掉落海洋之心
 
-![萤幕撷取画面 (451)](src/drop-item_heart-of-the-sea.png)
+![螢幕擷取畫面 (438)](https://user-images.githubusercontent.com/77906640/147731524-b4cfbf80-e57e-4b94-a327-83ecad62c721.png)
 
 ---
 
 #### 苦力怕被流髑或骷髅击杀会掉落所有种类的唱片之一
 
-![萤幕撷取画面 (452)](src/drop-item_disc.png)
+![螢幕擷取畫面 (439)](https://user-images.githubusercontent.com/77906640/147732066-183d1bef-8f85-4966-a46a-c2e4d7703003.png)
 
 ---
 
@@ -157,18 +157,18 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 #### 与工具商人的交易
 
 - 以**32**个绿宝石交易获得**1**个鑽石
-![萤幕撷取画面 (440)](src/trade_emerald-to-diamond.png)
+![螢幕擷取畫面 (440)](https://user-images.githubusercontent.com/77906640/147733897-255ab565-3698-4dc9-acb4-836d216367d2.png)
 
 ---
 
 #### 猪灵交易
 
 - **0.2%**几率得到**1**个远古遗骸
-![萤幕撷取画面 (441)](src/trade_piglin-to-netherite.png)
+![螢幕擷取畫面 (441)](https://user-images.githubusercontent.com/77906640/147734567-c6eac6fd-c20c-4b57-86b1-b76a9bbe8b53.png)
 
 ### 可再生界伏蚌生成机制 （将于 v1.0.1加入）
 
-- 特别鸣谢由 Golden Helmet 独自完成的生成机制开发
+- 特别鸣谢由 [Golden Helmet](https://www.youtube.com/channel/UCcrW5iYh_4Z2pXZwu-vFUkw) 独自完成的生成机制开发
 - 界伏蚌有 75% 机率生成，当：
   - 被界伏蚌的导弹击中
   - 贝壳是打开状态
@@ -189,3 +189,5 @@ MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 - [Rock C.](https://github.com/rockclw)
 - [TNT Sky](https://github.com/TNTsky)
 - [bridge.](https://github.com/bridge-core/bridge.)
+- [EvanHsieh0415](https://github.com/EvanHsieh0415)
+- [dust0517](https://github.com/dust0517)
