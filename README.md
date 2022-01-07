@@ -169,3 +169,5 @@ MCBE Skyblock Addon 是一個爲了下列目標而開發的:
 - [Rock C.](https://github.com/rockclw)
 - [TNT Sky](https://github.com/TNTsky)
 - [bridge.](https://github.com/bridge-core/bridge.)
+- [EvanHsieh0415](https://github.com/EvanHsieh0415)
+- [dust0517](https://github.com/dust0517)
