@@ -169,3 +169,5 @@ Produce Dead Bush
 - [Rock C.](https://github.com/rockclw)
 - [TNT Sky](https://github.com/TNTsky)
 - [bridge.](https://github.com/bridge-core/bridge.)
+- [EvanHsieh0415](https://github.com/EvanHsieh0415)
+- [dust0517](https://github.com/dust0517)
