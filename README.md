@@ -50,7 +50,7 @@ Craftable Ore:
 | :-----------: | :-------------------: | :-------------------: |
 | <img src="https://user-images.githubusercontent.com/77906640/147720018-a8763235-8dfc-4fe8-ba84-66dcf24da307.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147720749-5bec6056-ba11-4fcf-a003-474ec6ad9e54.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147720878-31de832b-54c7-486a-967b-4adeff07720c.png" width="50%;">  |
 | <img src="https://user-images.githubusercontent.com/77906640/147720992-bf2f9a11-7b00-47cc-b3ba-e044ad33aef3.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721051-ae5c9203-485e-4b65-bf6b-053f9e8782ee.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721063-5b6d2d9f-2c6d-4973-abe1-b2804308b870.png" width="50%;">  |
-| <img src="https://user-images.githubusercontent.com/77906640/147746365-eeab2c7e-a77f-4991-bb40-0baab9b06fd1.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721103-1c676058-63dc-4023-b631-edd8b943e9eb.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721114-a3a36fc4-02c4-44ca-be7f-c48a2d646472.png" width="50%;">  |
+| <img src="https://user-images.githubusercontent.com/77906640/147746365-eeab2c7e-a77f-4991-bb40-0baab9b06fd1.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721103-1c676058-63dc-4023-b631-edd8b943e9eb.png" width="50%;">    | <img src="https://user-images.githubusercontent.com/77906640/147721114-a3a36fc4-02c4-44ca-be7f-c48a2d646472.png" width="50%;"> |
 
 ---
 
@@ -166,6 +166,6 @@ Produce Dead Bush
 - [ddf8196](https://github.com/ddf8196)
 - [Frozen](https://space.bilibili.com/7543512)
 - [Daisy AC17](https://space.bilibili.com/433369355)
-- Rock C.
+- [Rock C.](https://github.com/rockclw)
 - [TNT Sky](https://github.com/TNTsky)
 - [bridge.](https://github.com/bridge-core/bridge.)
