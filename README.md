@@ -3,7 +3,7 @@
 ![螢幕擷取畫面 (390)](https://user-images.githubusercontent.com/77906640/147713933-8ea25541-e43a-455a-8dd8-de954b93fe00.png)
 
 语言：
-中文 [英文](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/main/README.md)
+简体中文 [繁體中文](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/zh-cn/README.md) [English](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/main/README.md)
 
 MCBE Skyblock Addon 是一个爲了下列目标而开发的:
 
