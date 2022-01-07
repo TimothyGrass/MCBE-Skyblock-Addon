@@ -2,7 +2,7 @@
 ![螢幕擷取畫面 (390)](https://user-images.githubusercontent.com/77906640/147713933-8ea25541-e43a-455a-8dd8-de954b93fe00.png)
 
 Language:
-English [Chinese](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/chinese-readme/README.md)
+English [繁體中文](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/blob/chinese-readme/README.md) [简体中文](https://github.com/TimothyGrass/MCBE-Skyblock-Addon/tree/zh-cn)
 
 MCBE Skyblock Addon is a behavior pack that provides better experience specific for better gaming experience which aims at:
 - Everything being renewable
